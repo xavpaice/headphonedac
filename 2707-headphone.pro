@@ -1,0 +1,25 @@
+update=Fri 04 Jul 2014 23:00:37 NZST
+last_client=kicad
+[general]
+version=1
+[eeschema]
+version=1
+PageLayoutDescrFile=
+SubpartIdSeparator=0
+SubpartFirstId=65
+LibDir=/home/xav/kicad;/home/xav/kicad/Libs;/home/xav/kicad/common
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
+[eeschema/libraries]
+LibName1=PCM2707
+LibName2=valves
+LibName3=power
+LibName4=device
+LibName5=logo
+LibName6=audio
+LibName7=con-usb
