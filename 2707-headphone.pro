@@ -1,5 +1,5 @@
-update=Fri 04 Jul 2014 23:00:37 NZST
-last_client=kicad
+update=Tue 22 Jul 2014 22:30:11 NZST
+last_client=eeschema
 [general]
 version=1
 [eeschema]
@@ -23,3 +23,5 @@ LibName4=device
 LibName5=logo
 LibName6=audio
 LibName7=con-usb
+LibName8=v-reg
+LibName9=conn

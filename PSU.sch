@@ -6,14 +6,16 @@ LIBS:device
 LIBS:logo
 LIBS:audio
 LIBS:con-usb
+LIBS:v-reg
+LIBS:conn
 LIBS:2707-headphone-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 4
+Sheet 3 5
 Title "2707 Headphone DAC"
-Date "19 Jul 2014"
+Date "22 Jul 2014"
 Rev "0.1"
 Comp "Xav Paice"
 Comment1 "Creative Commons Attribution 4.0 International License."
